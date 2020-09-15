@@ -1,0 +1,7 @@
+package com.gestaoconsultoriomedico.br.model;
+
+public void Consulta() {
+    public static void main(String[] args) {
+        
+    }
+}
